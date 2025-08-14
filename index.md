@@ -45,15 +45,14 @@ github:
 
     https://github.com/IUCompilerCourse/Essentials-of-Compilation
 
-
-**Lecture:** Tuesdays and Thursdays 3:00-4:15pm, Informatics Building
+**Lecture:** Tuesdays and Thursdays 2:20-3:35pm, Informatics Building
   (Myles Brand Hall), Room I 107.
-
 
 **Office hours**
 
-* Jeremy Siek (jsiek): Mondays 2-3pm, Fridays 1-2pm, in Luddy 3014 (or nearby).
-* Darshal Shetty (dcshetty): Wednesdays 1:30-2:30pm, Fridays 12:00-1:00pm, in Luddy 3014 (or nearby).
+* Jeremy Siek (jsiek): TBD, in Luddy 3014 (or nearby).
+* Darshal Shetty (dcshetty): TBD.
+* Shulin Gonsalves (shugons): TBD.
 
 
 **Topics:**
