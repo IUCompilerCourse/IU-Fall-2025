@@ -128,7 +128,7 @@ week late with a penalty of 10%.
 
 **Slack Chat/Messaging:**
 
-  [Workspace](https:://compilers-fall-2025.slack.com) 
+  [Workspace](https://compilers-fall-2025.slack.com) 
     ([signup](https://join.slack.com/t/compilers-fall-2025/shared_invite/zt-3c26k54om-PJIl7jxoV_ZpHlVIb_MMvw)
   using your iu email address).
 
