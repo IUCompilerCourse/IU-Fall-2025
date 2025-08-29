@@ -50,9 +50,9 @@ github:
 
 **Office hours**
 
-* Jeremy Siek (jsiek): TBD, in Luddy 3014 (or nearby).
-* Darshal Shetty (dcshetty): TBD.
-* Shulin Gonsalves (shugons): TBD.
+* Jeremy Siek (jsiek): Tuesdays 3:45pm-4:45pm, Fridays 4-5pm, in Luddy 3014.
+* Darshal Shetty (dcshetty): Mondays 3:30-5:30pm, in Luddy 3014.
+* Shulin Gonsalves (shugons): Mondays 12-1pm, Tuesdays 4-5pm, in Luddy 3014.
 
 
 **Topics:**
