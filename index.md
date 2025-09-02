@@ -137,7 +137,7 @@ week late with a penalty of 10%.
 Day     | Lecture Topic              | Assignment Due
 Aug. 26 | [Introduction](https://docs.google.com/presentation/d/13jmEAwqD7naNAj0c2IsF0tDhgMyQH-tBW9sZeRgzBt8/edit?usp=sharing)               |
 Aug. 28 | [From Lvar to x86](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing) |
-Sep. 2 | Example Compilation from Lvar to x86 |
+Sep. 2 | Example Compilation from Lvar to x86 in [Racket](./example-var-73.md) and [Python](./python-var-73.md) |
 Sep. 4 | [Register Allocation, Introduction and Liveness](https://docs.google.com/presentation/d/1jL4M6G6DDnfqOPsCab9_6k7PcV_wRBd4p9Xn2LzobOE/edit?usp=sharing) |
 Sep. 9 | [Register Allocation: graph coloring](https://docs.google.com/presentation/d/1qPKUGZnqh6ggfP5_emHVJhSTyPRI0iD02jRTdB9mbwo/edit?usp=sharing) | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1913) or [Python](https://autograder.luddy.indiana.edu/web/project/1912)
 Sep. 11 | Code Review: Integers and Variables
