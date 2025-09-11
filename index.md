@@ -168,7 +168,7 @@ Dec. 4 | Objects
 Dec. 9 | Inlining
 Dec. 11 | Review for Final Exam
 Dec. 12 | | Final Project (no late submissions). See the canvas assignment for details.
-Dec. 15-19 | **Final Exam Week**
+Dec. 16 | **Final Exam** 12:40-2:40 pm
 
 
 

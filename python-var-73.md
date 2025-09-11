@@ -93,6 +93,7 @@
         pushq %rbp
         movq %rsp, %rbp
         subq $64, %rsp
+        
         callq _read_int
         movq %rax, -32(%rbp)
         movq -32(%rbp), %rax
@@ -117,6 +118,7 @@
         subq %rax, -40(%rbp)
         movq -40(%rbp), %rdi
         callq _print_int
+        
         addq $64, %rsp
         popq %rbp
         retq 
