@@ -135,6 +135,7 @@ week late with a penalty of 10%.
 **Schedule**
 
 Day     | Lecture Topic              | Assignment Due
+--------|----------------------------|----------------
 Aug. 26 | [Introduction](https://docs.google.com/presentation/d/13jmEAwqD7naNAj0c2IsF0tDhgMyQH-tBW9sZeRgzBt8/edit?usp=sharing)               |
 Aug. 28 | [From Lvar to x86](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing) |
 Sep. 2 | Example Compilation from Lvar to x86 in [Racket](./example-var-73.md) and [Python](./python-var-73.md) |
