@@ -166,7 +166,7 @@ Nov. 21 | | [Proposal for Final Project](./final-project-proposal.md)
 Nov. 24 - Nov. 28 | **Thanksgiving Break**
 Dec. 2 | [Generics](https://docs.google.com/presentation/d/1772Bs1E1XPF2duXquzGMEcjFt_a5Ssa0DgcureURfgI/edit?usp=sharing) | Functions, late deadline
 Dec. 4 | Objects
-Dec. 9 | Inlining
+Dec. 9 | Procedure Inlining
 Dec. 11 | Review for Final Exam
 Dec. 12 | | Final Project (no late submissions). See the canvas assignment for details.
 Dec. 16 | **Final Exam** 12:40-2:40 pm
