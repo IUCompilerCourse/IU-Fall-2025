@@ -176,6 +176,7 @@ Dec. 16 | **Final Exam** 12:40-2:40 pm
 **Resources:**
 
 * Practice exams:
+  - Midterm from 2023: [Python with solutions](./2023-python-midterm-soln.pdf), [Racket with solutions](./2023-racket-midterm-soln.pdf)
   - Midterm from 2022: [Python](./2022-python-midterm.pdf), [Python with solutions](./2022-python-midterm-soln.pdf), [Racket](./2022-racket-midterm.pdf), [Racket with solutions](./2022-racket-midterm-soln.pdf)
   - Final from 2022: [Python](./2022-python-final.pdf), [Python with solutions](./2022-python-final-soln.pdf), [Racket](./2022-racket-final.pdf), [Racket with solutions](./2022-racket-final-soln.pdf)
   - Final from 2021: [Python](./2021-python-final.pdf), [Python with solutions](./2021-python-final-soln.pdf), [Racket](./2021-racket-final.pdf), [Racket with solutions](./2021-racket-final-soln.pdf)
