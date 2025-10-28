@@ -154,8 +154,8 @@ Oct. 14 | [Tuples and GC, cont'd](https://docs.google.com/presentation/d/1SYAsDr
 Oct. 16 | [Arrays, Structs, Generational GC](https://docs.google.com/presentation/d/1GHF-JTvsnJeOSBhAn9m1HHFVpRekVPO0QHSbkbg4vX8/edit?usp=sharing)
 Oct. 21 | Review for Midterm Exam | Loops, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1916) or [Python](https://autograder.luddy.indiana.edu/web/project/1904) (see also [Racket challenge](https://autograder.luddy.indiana.edu/web/project/2054) or [Python challenge](https://autograder.luddy.indiana.edu/web/project/2055))
 Oct. 23 | **Midterm Exam** in class
-Oct. 28 | Code Review: Loops | Loops, late deadline 
-Oct. 30 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12AD6drC7k9_7Ldk8yN8HWI6MBmzqfM5ec0pSP9pj_po/edit?usp=sharing)
+Oct. 28 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12AD6drC7k9_7Ldk8yN8HWI6MBmzqfM5ec0pSP9pj_po/edit?usp=sharing) | Loops, late deadline 
+Oct. 30 | Code Review: Loops
 Nov. 4  | Compiling Functions, cont'd | Tuples
 Nov. 6  | Code Review: Tuples
 Nov. 11 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing) | Tuples, late deadline
