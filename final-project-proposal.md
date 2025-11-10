@@ -1,4 +1,4 @@
-Submit your final project proposal on Canvas [here](https://iu.instructure.com/courses/2249389/assignments/16927258).
+Submit your Final Project Proposal on Canvas.
 The file format should either be a text file or PDF.
 
 Everyone should submit a final project proposal
