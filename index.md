@@ -126,6 +126,7 @@ alone. The quizzes and exams are closed book.
 **Late assignment policy:** Assignments may be turned in up to one
 week late with a penalty of 10%.
 
+
 **Slack Chat/Messaging:**
 
   [Workspace](https://compilers-fall-2025.slack.com) 
@@ -160,7 +161,7 @@ Nov. 4  | Compiling Functions, cont'd | Tuples, submit in [Racket](https://autog
 Nov. 6  | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing)
 Nov. 11 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing) | Tuples, late deadline
 Nov. 13 | Code Review: Tuples
-Nov. 18 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiLxGOs_wSRc0i5xoLF1QYPL-A7i1U_Ag/edit?usp=sharing) | Functions
+Nov. 18 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiLxGOs_wSRc0i5xoLF1QYPL-A7i1U_Ag/edit?usp=sharing) | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/1910) or [Python](https://autograder.luddy.indiana.edu/web/project/1905)
 Nov. 20 | [Generics](https://docs.google.com/presentation/d/1772Bs1E1XPF2duXquzGMEcjFt_a5Ssa0DgcureURfgI/edit?usp=sharing)
 Nov. 21 | | [Proposal for Final Project](./final-project-proposal.md)
 Nov. 24 - Nov. 28 | **Thanksgiving Break**
