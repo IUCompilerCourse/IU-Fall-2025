@@ -165,7 +165,7 @@ Nov. 18 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiL
 Nov. 20 | [Generics](https://docs.google.com/presentation/d/1772Bs1E1XPF2duXquzGMEcjFt_a5Ssa0DgcureURfgI/edit?usp=sharing)
 Nov. 21 | | [Proposal for Final Project](./final-project-proposal.md)
 Nov. 24 - Nov. 28 | **Thanksgiving Break**
-Dec. 2 | Objects | Functions, late deadline
+Dec. 2 | [Objects](https://docs.google.com/presentation/d/1quAiJTiIoYNlgJka8nLl3GchhDPQdoXLK6kcEzEDGVo/edit?usp=sharing) | Functions, late deadline
 Dec. 4 | Code Review: Functions
 Dec. 9 | Procedure Inlining
 Dec. 11 | Review for Final Exam
